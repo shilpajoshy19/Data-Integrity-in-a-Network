@@ -8,3 +8,4 @@ Additionally, the solution has the capability for enhanced cyber forensics. As t
 
 # Solution Architecture Diagram
 
+https://github.com/shilpajoshy19/Data-Integrity-in-a-Network/blob/master/Solution_architecture_diagram.jpg
